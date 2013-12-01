@@ -1,0 +1,15 @@
+title: Lili's Main page.
+url: http://www.crabbit.org
+feed: /atom.xml
+permalink: /:categories/:title
+markdown: rdiscount
+pygments: true
+paginate: 8
+
+author:
+        name: lili
+        email: lili00681@gmail.com
+        github: http://github.com/crabbit
+
+copyright:
+    - Design by <a href=http://www.crabbit.org rel=friend title=lili target=_blank>lili</a> &copy; Copyright 2013

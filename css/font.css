@@ -1,0 +1,21 @@
+#welcome{
+	background-color: #fff;
+	color: #244448;
+	text-shadow: 0 1px #A1B6BA;
+	font-size: 18px;
+}
+
+#welcome #about{
+	margin-top: 0;
+	text-align: left;
+	display: table;
+}
+
+.page .divcss5 dl dt em{
+	font-style: normal;
+	font-family: 'Reenie Beanie';
+	font-size: 170%;
+	border-bottom: 1px dashed #62868E;
+	text-shadow: none;
+	padding: 1px 5px 0;
+}
