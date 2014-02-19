@@ -36,8 +36,8 @@ body{
 	background-color:#000000;
 	padding:20px 90px 60px 60px;
 	border:1px solid white;
-/*	text-shadow:1px 1px 0 white;}
- *	*/
+	text-shadow:1px 1px 0 white;}
+
 
 #faqSection{
 	background:url('img/faq_bg.jpg') repeat-y #fff;
